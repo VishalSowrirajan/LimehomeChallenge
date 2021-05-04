@@ -1,4 +1,4 @@
-# LimehomeChallenge
+# PatternFinding_HotelBookings
 
 The code was developed using Python 3.7.6
 
